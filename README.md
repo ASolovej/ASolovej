@@ -1,5 +1,5 @@
-### Добро пожаловать! :cherry_blossom:
-Меня зовут Александр.</br>
+### Добро пожаловать!
+Меня зовут Александр!</br>
 <!--
 **Alexandr202128/Alexandr202128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
