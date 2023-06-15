@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/VSTU-logo.jpg"></td><td valign="middle">Воронежский технический университет.</br>Факультет радиотехники и электроники.</br>Инженер-электронщик.</td></tr>
+    <td width="30%" valign="bottom"><img src="/VSTU-logo.jpg"></td><td valign="middle">Воронежский технический университет.</br>Факультет радиотехники и электроники.</br>Инженер-электронщик.</td></tr>
    </tr>
   </table>
   </br>
