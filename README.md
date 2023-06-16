@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </table>
   </br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asolovej)](https://github.com/Asolovej/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asolovej1)](https://github.com/Asolovej1/github-readme-stats)
 
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="">rosatom-career-tests</a></br></br>
