@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asolovej)](https://github.com/Asolovej/github-readme-stats)
 
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="">sber-mega-market-tests</a>https://github.com/ASolovej/sber_mega_market.git</br></br>
+:link: Тестовый проект: <a target="_blank" href="">sber-mega-market-tests</a></br>https://github.com/ASolovej/sber_mega_market.git</br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов сайта СберМегаМаркет.</br></br>
 :triangular_flag_on_post: Что особенного:
